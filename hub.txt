@@ -1,0 +1,6 @@
+hub share
+shortLabel SV_del_BAM
+longLabel SV_large_del_BAM
+genomesFile genomes.txt
+email pattarin.nuw@chulahospital.org
+descriptionUrl https://github.com/pnuwongsri/share.git
